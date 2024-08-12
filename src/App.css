@@ -1,0 +1,29 @@
+.app {
+  text-align: center;
+  padding: 20px;
+}
+
+.add-movie,
+.filter {
+  margin-bottom: 20px;
+}
+
+input {
+  margin-right: 10px;
+  padding: 5px;
+  border-radius: 5px;
+  border: 1px solid #ccc;
+}
+
+button {
+  padding: 5px 10px;
+  border-radius: 5px;
+  border: none;
+  background-color: #28a745;
+  color: white;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #218838;
+}

@@ -1,0 +1,27 @@
+.movie-card {
+    border: 3px solid white;
+    border-radius: 10px;
+    text-decoration: none;
+    padding: 15px;
+    margin: 10px;
+    width: 250px;
+    text-align: center;
+    cursor: pointer;
+    background-color: black;
+  }
+  
+  .movie-card img {
+    width: 100%;
+    height: auto;
+    border-radius: 10px;
+    margin-bottom: 10px;
+  }
+  
+  .movie-card h3 {
+    margin: 0 0 10px 0;
+    color: gold;
+  }
+  
+  .movie-card p {
+    color: white;
+  }
